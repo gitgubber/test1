@@ -10,8 +10,6 @@ public class Main {
             //counter = counter + 1;
         }
         System.out.println("test");
-        System.out.println("develop continue9");
-        System.out.println("develop continue10");
         System.out.println("develop continue11");
     }
 }
