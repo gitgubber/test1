@@ -10,6 +10,7 @@ public class Main {
             //counter = counter + 1;
         }
         System.out.println("fininsh");
+        System.out.println("hello");
 
     }
 }
