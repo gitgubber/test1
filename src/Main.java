@@ -14,5 +14,6 @@ public class Main {
         System.out.println("master continue");
         System.out.println("master continue2");
         System.out.println("master continue3");
+        System.out.println("master continue4");
     }
 }
