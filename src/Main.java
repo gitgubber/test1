@@ -24,5 +24,6 @@ public class Main {
         System.out.println("develop continue6");
         System.out.println("master continue7");
         System.out.println("develop continue7");
+        System.out.println("master continue8");
     }
 }
