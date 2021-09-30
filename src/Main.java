@@ -9,7 +9,6 @@ public class Main {
             counter++;
             //counter = counter + 1;
         }
-
         System.out.println("master continue7");
         System.out.println("develop continue7");
         System.out.println("master continue8");
