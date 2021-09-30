@@ -9,21 +9,12 @@ public class Main {
             counter++;
             //counter = counter + 1;
         }
-        System.out.println("fininsh");
-        System.out.println("hello");
-        System.out.println("develop continue");
-        System.out.println("feature1");
 
-        System.out.println("master continue");
-        System.out.println("master continue2");
-        System.out.println("master continue3");
-        System.out.println("master continue4");
-        System.out.println("master continue5");
-        System.out.println("develop continue5");
-        System.out.println("master continue6");
-        System.out.println("develop continue6");
         System.out.println("master continue7");
         System.out.println("develop continue7");
         System.out.println("master continue8");
+        System.out.println("master continue9");
+        System.out.println("master continue10");
+        System.out.println("master continue11");
     }
 }
